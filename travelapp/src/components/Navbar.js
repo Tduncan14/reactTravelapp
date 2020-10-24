@@ -62,7 +62,7 @@ import './Navbar.css/Navbar.css';
                     </li>
                     <li className="nav-item">
                         <Link to="/products" className="nav-links" onClick={closeMobileMenu}>
-                            products
+                            Products
                         </Link>
                     </li>
                     <li className="nav-item">
